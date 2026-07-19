@@ -30,12 +30,12 @@ Below is the baseline performance data extracted from the operational audit comp
 ### A. The "As-Is" Workflow (The Bottleneck)
 *The audit revealed significant friction points: data siloed in email attachments, a manual credit approval loop, and repetitive data entry across multiple legacy databases.*
 
-👉 **[INSERT YOUR LUCIDCHART AS-IS SCREENSHOT HERE]**
+👉 **[AS-IS SCREENSHOT HERE]**
 
 ### B. The "To-Be" Workflow (The Optimized Solution)
 *The redesigned process introduces a single point of data entry (CRM), automated API credit verification, and direct webhook data synchronization to the ERP system.*
 
-👉 **[INSERT YOUR LUCIDCHART TO-BE SCREENSHOT HERE]**
+👉 **[LUCIDCHART TO-BE SCREENSHOT HERE]**
 
 ---
 
